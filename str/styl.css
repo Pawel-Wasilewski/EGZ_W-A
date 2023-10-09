@@ -1,0 +1,36 @@
+html{
+    font-family: arial;
+}
+body{
+    margin: 0 auto;
+    width: 1200px;
+}
+header{
+    background-color: #78d;
+    color: #fff;
+    box-sizing: border-box;
+    justify-content: space-around;
+    display: flex;
+}
+header>img {
+    width: 100px;
+    height: 150px;
+}
+#nwm{
+    text-align: center;
+}
+img{
+    width: 140px;
+    height: 200px;
+    text-align: center;
+}
+main{
+    color: #fff;
+    background-color: rgb(90, 103, 167);
+    padding: 10px;
+}
+footer{
+    background-color: #78d;
+    clear: both;
+    text-indent: 4px;
+}
